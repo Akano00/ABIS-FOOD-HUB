@@ -23,6 +23,7 @@ body {
 .main-container {
   border-top: 20px solid #ff0000;
   padding: 20px;
+  width: 100%;
 }
 
 h1 {
